@@ -40,9 +40,14 @@ own organization.
 ### 👥 Team
 
 | | |
+
 |---|---|
+
 | **Rahul Yadav** | Founder — product, engineering |
+
 | **Viraaj** | COO — operations, growth |
+
+| **Anuj** | CFO — finance, billing, pricing, Marketing, compliance  & investor relations |
 
 ---
 
