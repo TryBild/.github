@@ -39,10 +39,6 @@ own organization.
 
 ### 👥 Team
 
-| | |
-
-|---|---|
-
 | **Rahul Yadav** | Founder — product, engineering |
 
 | **Viraaj** | COO — operations, growth |
