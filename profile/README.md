@@ -52,8 +52,7 @@ own organization.
 | Product | Description | Stack | Status |
 |---|---|---|---|
 | 🛡️ **[Attendr](https://trybild.com)** | GPS-based digital attendance for Indian businesses — no biometrics, just phone + GPS + OTP | `Kotlin` `Jetpack Compose` `Node.js` `MongoDB` | 🔨 Active development |
-| 🚛 **[TruckHisaab](https://trybild.com)** | WhatsApp AI assistant for truck owners — trip logging, expense tracking & P&L reports, in Hindi | `Node.js` `MongoDB` `OpenAI` `WhatsApp Cloud API` | 🟢 Live · 250+ trusted users |
-| 🏠 **RentPey** | WhatsApp-native rent management for Indian landlords — auto reminders, payment verification, tenant tracking | `Node.js` `MongoDB` `WhatsApp Cloud API` `node-cron` | 🔨 Active development |
+| 🚛 **[TruckHisaab](https://trybild.com)** | WhatsApp AI assistant for truck owners — trip logging, expense tracking & P&L reports, in Hindi | `Node.js` `MongoDB` `OpenAI` `WhatsApp Cloud API` | 🟢 Live · 1000+ trusted users |
 | 🪼 **[JellyClaw](https://jellyclaw.in)** | Local multi-agent AI orchestration — a hierarchy of agents (CEO → Department Heads → Workers) that run entirely on your own hardware, YAML-configured, Ollama-powered | `Python` `Ollama` `YAML` | 🔨 Open source · engine in development |
 
 ---
