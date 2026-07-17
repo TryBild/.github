@@ -1,5 +1,4 @@
-![TryBild](trybild-banner.png)
-
+[TryBild](trybild-banner.png)
 # TryBild
 
 TryBild is a Mumbai-based product studio building software for India's next 500 million. We design and ship SaaS products for SMBs, fleet operators, and everyday consumers — products that work where people actually are: WhatsApp, Android, and the web.
