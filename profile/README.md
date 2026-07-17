@@ -1,36 +1,31 @@
-<div align="center">
-
 # TryBild
 
-**We build software people actually use.**
+TryBild is a Mumbai-based product studio building software for India's next 500 million. We design and ship SaaS products for SMBs, fleet operators, and everyday consumers — products that work where people actually are: WhatsApp, Android, and the web.
 
-A Mumbai-based product studio — small team, real products, shipped in public.
+## Our Products
 
-[![Website](https://img.shields.io/badge/trybild.com-fe3c00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trybild.com)
-[![X](https://img.shields.io/badge/@trybild-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/trybild)
-[![Email](https://img.shields.io/badge/Contact-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trybild@gmail.com)
+- **[Attendr](https://attendr.in)** — GPS-powered attendance SaaS for Indian SMBs
+- **[TruckHisaab](https://truckhisaab.in)** — Fleet management and expense tracking for truck owners
+- **[RentPey](https://rentpey.in)** — WhatsApp-native rent management for landlords and tenants
+- **[JellyClaw](https://jellyclaw.in)** — Open-source local multi-agent AI orchestration platform
 
-</div>
+## Getting Started
+
+To explore our work, check out our [website](https://trybild.com), browse our [open-source repos](https://github.com/TryBild), or reach us at [hello@trybild.com](mailto:hello@trybild.com).
+
+## Open Source
+
+We believe in building in public. JellyClaw — our local-first multi-agent AI platform — is fully open source. We welcome contributions, bug reports, and feature requests from the community.
+
+Visit [github.com/TryBild](https://github.com/TryBild) to explore all our public repositories.
+
+## Follow Us
+
+- Follow us on [X (Twitter)](https://x.com/trybild)
+- Connect on [LinkedIn](https://linkedin.com/company/trybild)
+- Watch on [YouTube](https://youtube.com/@trybild)
+- Follow on [Instagram](https://instagram.com/trybild)
 
 ---
 
-### 👋 About Us
-
-TryBild is a small product studio building for problems we've seen up
-close — small businesses tracking attendance on paper registers, truck
-owners doing hisaab in notebooks, landlords chasing rent over phone
-calls. Every product starts from something we watched someone struggle
-with in real life, not a market-research slide.
-
-We're three people — no funding round, no big team — building one
-working product at a time and shipping in public rather than
-disappearing for a year to build something "perfect." Most of our
-products are commercial SaaS for Indian SMBs; JellyClaw, our newest
-project, is a fully open-source local-AI platform maintained under its
-own organization.
-
-**What we believe in:**
-- 🎯 Build for problems you've actually seen, not trends
-- 🇮🇳 Design for India first — WhatsApp-native, low-friction, works on a budget phone
-- 🔓 Open source what can be open source — JellyClaw is fully public
-- 🚢 Ship early, iterate in public, talk to real users
+[Website](https://trybild.com) · [Contact](mailto:hello@trybild.com) · [Support](mailto:support@trybild.com)
