@@ -1,3 +1,5 @@
+![TryBild](trybild-banner.png)
+
 # TryBild
 
 TryBild is a Mumbai-based product studio building software for India's next 500 million. We design and ship SaaS products for SMBs, fleet operators, and everyday consumers — products that work where people actually are: WhatsApp, Android, and the web.
@@ -6,7 +8,6 @@ TryBild is a Mumbai-based product studio building software for India's next 500 
 
 - **[Attendr](https://attendr.in)** — GPS-powered attendance SaaS for Indian SMBs
 - **[TruckHisaab](https://truckhisaab.in)** — Fleet management and expense tracking for truck owners
-- **[RentPey](https://rentpey.in)** — WhatsApp-native rent management for landlords and tenants
 - **[JellyClaw](https://jellyclaw.in)** — Open-source local multi-agent AI orchestration platform
 
 ## Getting Started
